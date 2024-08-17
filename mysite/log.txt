@@ -956,3 +956,65 @@ AttributeError: 'Product' object has no attribute 'archived'. Did you mean: 'is_
 2024-05-09 14:53:14,010 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/1.1" 200 0
 2024-05-09 14:53:32,695 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/1.1" 200 0
 2024-05-09 14:54:22,115 [INFO] in django.utils.autoreload: Watching for file changes with StatReloader
+2024-08-17 16:52:25,164 [INFO] in django.utils.autoreload: Watching for file changes with StatReloader
+2024-08-17 16:52:25,208 [DEBUG] in urllib3.connectionpool: Starting new HTTPS connection (1): o4507220180795392.ingest.de.sentry.io:443
+2024-08-17 16:52:25,832 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:54:32,629 [INFO] in django.utils.autoreload: Watching for file changes with StatReloader
+2024-08-17 16:54:32,688 [DEBUG] in urllib3.connectionpool: Starting new HTTPS connection (1): o4507220180795392.ingest.de.sentry.io:443
+2024-08-17 16:54:33,254 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:55:22,021 [INFO] in django.utils.autoreload: Watching for file changes with StatReloader
+2024-08-17 16:55:22,058 [DEBUG] in urllib3.connectionpool: Starting new HTTPS connection (1): o4507220180795392.ingest.de.sentry.io:443
+2024-08-17 16:55:22,599 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:55:51,717 [INFO] in django.utils.autoreload: Watching for file changes with StatReloader
+2024-08-17 16:55:51,794 [DEBUG] in urllib3.connectionpool: Starting new HTTPS connection (1): o4507220180795392.ingest.de.sentry.io:443
+2024-08-17 16:55:52,337 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:56:18,579 [INFO] in django.utils.autoreload: Watching for file changes with StatReloader
+2024-08-17 16:56:19,153 [DEBUG] in urllib3.connectionpool: Starting new HTTPS connection (1): o4507220180795392.ingest.de.sentry.io:443
+2024-08-17 16:56:19,741 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:56:53,480 [INFO] in django.utils.autoreload: Watching for file changes with StatReloader
+2024-08-17 16:56:57,414 [DEBUG] in urllib3.connectionpool: Starting new HTTPS connection (1): o4507220180795392.ingest.de.sentry.io:443
+2024-08-17 16:56:57,446 [WARNING] in django.request: Not Found: /ru/
+2024-08-17 16:56:57,732 [WARNING] in django.request: Not Found: /ru/favicon.ico
+2024-08-17 16:56:58,043 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:56:58,112 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:56:58,175 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:56:58,248 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:56:58,316 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:56:58,383 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:56:58,453 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:56:58,521 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:57:06,692 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:57:06,760 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:57:06,824 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:57:06,889 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:57:06,954 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:57:09,101 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:57:09,183 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:57:09,263 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:57:09,331 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:57:13,638 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:57:26,905 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:06,837 [INFO] in django.utils.autoreload: Watching for file changes with StatReloader
+2024-08-17 16:59:09,967 [DEBUG] in urllib3.connectionpool: Starting new HTTPS connection (1): o4507220180795392.ingest.de.sentry.io:443
+2024-08-17 16:59:10,006 [WARNING] in django.request: Not Found: /ru/
+2024-08-17 16:59:10,578 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:10,647 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:11,096 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:11,161 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:11,228 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:11,482 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:21,063 [WARNING] in django.request: Not Found: /ru/products/
+2024-08-17 16:59:21,134 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:28,673 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:28,743 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:28,809 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:28,875 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:30,755 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:32,903 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:33,020 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:35,336 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:35,437 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:41,998 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:43,674 [WARNING] in django.request: Not Found: /ru/products/
+2024-08-17 16:59:43,744 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
+2024-08-17 16:59:47,773 [DEBUG] in urllib3.connectionpool: https://o4507220180795392.ingest.de.sentry.io:443 "POST /api/4507220186693712/envelope/ HTTP/11" 200 0
